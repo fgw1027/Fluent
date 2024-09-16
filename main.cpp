@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//排序函数
 void sort(int arr[],int size)
 {
 	int tmp=0;
